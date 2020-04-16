@@ -12,9 +12,7 @@ body {
   background: #eee; }
 
 .head:hover {
-  font-weight: bold; }
-
-.head:hover > ul {
-  font-weight: normal; }
+  font-weight: bold;
+  cursor: pointer; }
 
 /*# sourceMappingURL=main.css.map */
